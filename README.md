@@ -13,8 +13,11 @@
 ### 기술 스택
 
 **Backend:** Java, Spring Boot, Spring WebFlux, PostgreSQL, Redis
+
 **Frontend:** React, Next.js, TypeScript, Tailwind CSS
+
 **Infra:** AWS (EC2, S3, ECS), Docker, GitHub Actions
+
 **AI Tools:** Claude Code, Codex, OpenAI MCP
 
 ### 경력
